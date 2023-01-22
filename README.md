@@ -10,6 +10,12 @@ In this respeitory you will find 2 jupyter notebooks:
 
 A french version of the process and results is alvailable here:  https://alexlenfant.wordpress.com/2021/01/15/example-post-3/
 
-![annotations](annotations.png)
+![annotations](clouds.jpg)
+
+![annotations](annotations.jpg)
+
+![annotations](output_1.jpg)
+
+![annotations](output_2.jpg)
 
 
