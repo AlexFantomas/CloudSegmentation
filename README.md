@@ -8,4 +8,8 @@ In this respeitory you will find 2 jupyter notebooks:
   - Functions: Contains all the function and classes used in this project
   - CloudFormations: Contains the dataviz and model setup
 
+A french version of the process and results is alvailable here:  https://alexlenfant.wordpress.com/2021/01/15/example-post-3/
+
+![annotations](annotations.png)
+
 
